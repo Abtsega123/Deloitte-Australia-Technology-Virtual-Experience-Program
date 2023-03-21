@@ -1,0 +1,42 @@
+
+
+1. Overview
+
+Deloitte is most famous for being one of the “big four” accounting companies, but our expertise and range of service spans much further than that. Building complex software solutions for our clients is something we are more than happy and qualified to do. Our team of experts in the software development domain has helped hundreds of Deloitte’s clients on thousands of projects robust, delivering high-quality software craftsmanship.
+Please, find enclosed in this document our Software Development Proposal for Daikibo’s Telemetry Live Dashboard.
+
+
+2. Scope
+
+Here are the main characteristics of the project:
+A private dashboard with health status of the 9 telemtry-enabled machines in each of Daikibo's 4 factories.
+Access to the page happens only within Daikibo’s Intranet/VPN.
+Authentication is synced to internal authentication server (users don't need to create an account). 
+The dashboard consists of a single page, listing the current statuses of all monitored devices.
+The view is collapsible/expandable at a factory level, as well as device level (showing history of statuses)
+You can refer to the wireframe image located on the next page for a visual reference. Please note this is not the final design, and it’s just a mock-up visual representation of the functionality.
+
+
+
+3. Estimate
+
+Design	Development	Integration	Total
+40	160	80	280
+* man-hours
+
+We are going to form an internal team of 2 software engineers & 1 graphic designer.
+NB!: We will require the help of at least 1 dev ops engineer from Daikibo to hand off the finished product and help us with access to authentication and telemetry databases/servers.
+
+4. Timeline
+
+1.[1st of September 2021] Design starts
+2.[8th of September 2021] Design is circulated to Daikibo for feedback
+3.[12th of September 2021] Design is finalized and Development starts
+4.[1st of October 2021] Development is done and v1 of the product is demonstrated to Daikibo
+5.[8th of October 2021] Development is finalized and Integration starts
+6.[22nd of October 2021] Integration is completed
+
+5. Support
+
+This proposal’s main focus is the development of the project, but when we are done and the product is successfully deployed within Daikibo’s infrastructure – we are going to remain available for continuous support.
+You can submit support tickets through our internal support system. The estimate of work described earlier doesn’t cover the continuous support we provide and any future bug fixes, updates and improvements will be invoiced separately.
